@@ -26,8 +26,6 @@
 <th>function</th>
 </tr>
 </table>
-
----
 <table>
 <tr>
 <th>value=</th>
@@ -54,8 +52,6 @@
 <th>string</th>
 </tr>
 </table>
-
----
 <table>
 <tr>
 <th>value=</th>
