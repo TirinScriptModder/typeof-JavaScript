@@ -27,7 +27,7 @@
 <table>
 <tr>
 <th>new value=</th>
-<th>Number()</th>
+<th>new Number()</th>
 <th>new Object()</th>
 <th>new String()</th>
 </tr>
