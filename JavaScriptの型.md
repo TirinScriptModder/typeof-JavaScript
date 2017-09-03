@@ -1,5 +1,5 @@
-#**value.toString();<br>Object.prototype.toString.call(value);<br>typeof value;**
-##**結果**
+**value.toString();<br>Object.prototype.toString.call(value);<br>typeof value;**
+**結果**
 <table>
 <tr>
 <th>value=</th>
