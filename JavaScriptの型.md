@@ -1,11 +1,9 @@
-**value.toString();<br>Object.prototype.toString.call(value);<br>typeof value;<br>**
-**結果**
 <table>
 <tr>
 <th>value=</th>
-<th>Array()</th>
-<th>Boolean()</th>
-<th>Function()</th>
+<th>new Array()</th>
+<th>new Boolean()</th>
+<th>new Function()</th>
 </tr>
 <tr>
 <th>value.toString()</th>
@@ -28,10 +26,10 @@
 </table>
 <table>
 <tr>
-<th>value=</th>
+<th>new value=</th>
 <th>Number()</th>
-<th>Object()</th>
-<th>String()</th>
+<th>new Object()</th>
+<th>new String()</th>
 </tr>
 <tr>
 <th>value.toString()</th>
@@ -55,7 +53,6 @@
 <table>
 <tr>
 <th>value=</th>
-<th>Symbol()</th>
 <th>null</th>
 <th>undefined</th>
 </tr>
@@ -63,17 +60,14 @@
 <th>value.toString()</th>
 <th>error</th>
 <th>error</th>
-<th>error</th>
 </tr>
 <tr>
 <th>Object.prototype.toString.call(value)</th>
-<th>[object Symbol]</th>
 <th>[object Null]</th>
 <th>[object Undefined]</th>
 </tr>
 <tr>
 <th>typeof value</th>
-<th>symbol</th>
 <th>object</th>
 <th>undefined</th>
 </tr>
