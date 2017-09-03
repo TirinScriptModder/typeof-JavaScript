@@ -1,4 +1,4 @@
-**value.toString();<br>Object.prototype.toString.call(value);<br>typeof value;**
+**value.toString();<br>Object.prototype.toString.call(value);<br>typeof value;<br>**
 **結果**
 <table>
 <tr>
